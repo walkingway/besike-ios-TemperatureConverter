@@ -2,8 +2,8 @@
 //  TemperatureConverterTests.swift
 //  TemperatureConverterTests
 //
-//  Created by cheng way on 10/24/14.
-//  Copyright (c) 2014 walkingway. All rights reserved.
+//  Created by Howard Yeh on 2014-10-13.
+//  Copyright (c) 2014 Howard Yeh. All rights reserved.
 //
 
 import UIKit
